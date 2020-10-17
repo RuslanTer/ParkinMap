@@ -206,7 +206,7 @@ class _SignInHttpDemoState extends State<SignInHttpDemo> {
                     if (200 == 200) {
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => MapSample()),
+                        MaterialPageRoute(builder: (context) => MyApp()),
                       );
                       _showDialog('Succesfully signed in.');
                     } // else if (result.statusCode == 401) {
