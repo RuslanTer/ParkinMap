@@ -197,6 +197,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.5"
+  equatable:
+    dependency: "direct main"
+    description:
+      name: equatable
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.1"
   fake_async:
     dependency: transitive
     description:
@@ -244,6 +251,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.0"
+  flutter_compass:
+    dependency: transitive
+    description:
+      name: flutter_compass
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.3"
   flutter_image:
     dependency: transitive
     description:
@@ -258,6 +272,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.1+1"
+  flutter_map_location:
+    dependency: "direct main"
+    description:
+      name: flutter_map_location
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.0"
+  flutter_map_marker_cluster:
+    dependency: "direct main"
+    description:
+      name: flutter_map_marker_cluster
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.3.1"
+  flutter_map_marker_popup:
+    dependency: transitive
+    description:
+      name: flutter_map_marker_popup
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.4"
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
